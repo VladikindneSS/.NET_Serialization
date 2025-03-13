@@ -1,6 +1,6 @@
 ﻿namespace FormsApp
 {
-    partial class Form1
+    partial class PointForm
     {
         /// <summary>
         /// Required designer variable.
